@@ -14,3 +14,8 @@ I built with Tailwind CSS and Javascript for research and learning purposes with
 - Vs Code
 - Plerdy
 - Miro
+
+## Mock Up Yasaro Website
+
+<img width="1920" height="960" alt="work1" src="https://github.com/user-attachments/assets/03a4f3b7-c5f5-4988-90d2-dee9e852b6e7" />
+
