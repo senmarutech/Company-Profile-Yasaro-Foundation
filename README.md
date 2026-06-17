@@ -18,3 +18,5 @@ This project is an optimized web-based application focused on transforming a leg
 - Plerdy
 - Miro
 
+## 🎨 Design System
+<img width="1920" height="2160" alt="about4" src="https://github.com/user-attachments/assets/9a34c23d-6060-4129-93a7-c3a8fdc72fa4" />
