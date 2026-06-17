@@ -4,8 +4,10 @@ This project is an optimized web-based application focused on transforming a leg
 
 ## 📦Technologies
 ---
+- HTML
 - Tailwind CSS
 - Javascript
+- UI Design
 - Data Analyst
 
 ## ⚙️Tools
